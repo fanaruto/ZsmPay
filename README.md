@@ -1,3 +1,8 @@
+易支付插件/   zsm  文件夹放在 plugins 目录
+
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/7c1af362-40be-4927-b799-43c0a2462f8c">
+
+
 什么是免签支付
 ---
 免签支付就是给个人用的支付接口，一般的支付接口都需要营业执照才能申请，个人很难申请的到，或者是没有资质去申请，要和支付商进行签约的。免签，顾名思义就是不需要签约。那么个人免签支付就有市场了，就是为了解决个人无法轻易申请到支付接口的问题。
@@ -31,7 +36,7 @@ https://www.qq.com/pay/server/notify.php
 
 电脑版监听脚本也有，暂不免费提供。
 
-![](https://img10.360buyimg.com/imgzone/jfs/t1/85199/11/47456/109760/6685179eF6570fc9d/38115fa3e9947b90.jpg)
+
 
 监听APP配置
 ---
@@ -106,20 +111,18 @@ CREATE TABLE `wxpay_zsm_orders` (
 
 在线演示
 ---
-https://demo.likeyunba.com/wxpayZsm/
 
-作者
----
-TANKING
+http://zsmpay.who365.club/
+
 
 加入开发者交流群
 ---
-请联系微信：sansure2016 即可加入我的开发者交流群，目前已有9个群，每个群人数均480+，属于高质量活跃群！<br>
+请联系微信：captaindata01 即可加入我的开发者交流群，目前已有9个群，每个群人数均480+，属于高质量活跃群！<br>
 
-![](https://img10.360buyimg.com/imgzone/jfs/t1/246098/25/13070/28619/6683b0abF2ecc1b35/73c9df9448800689.jpg)
+![image](https://github.com/user-attachments/assets/f1542182-9d5f-4fd0-8f4c-06cf2ab500f1)
 
 赞赏
 ---
 如果你喜欢我的作品，请给予一些支持！
 
-![image.png](https://t.focus-img.cn/sh740wsh/bbs/p2/25b4c4dc3a50be9b6f2c9a4ffe68deba.png)
+![image.png](http://zsmpay.who365.club/img/qrcode.png)
