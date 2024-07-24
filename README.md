@@ -124,5 +124,5 @@ http://zsmpay.who365.club/
 赞赏
 ---
 如果你喜欢我的作品，请给予一些支持！
+![image](https://github.com/user-attachments/assets/e201067c-f050-4fd5-a4ff-d9a01e45e90e)
 
-![image.png](http://zsmpay.who365.club/img/qrcode.png)
