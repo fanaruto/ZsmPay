@@ -1,4 +1,4 @@
-易支付插件/   zsm  文件夹放在 plugins 目录
+易支付插件改名为：zsm ，文件夹放在 plugins 目录  如图：
 
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/7c1af362-40be-4927-b799-43c0a2462f8c">
 
@@ -141,6 +141,7 @@ https://zsmpay.who365.club/
 ---
 
 如果你喜欢我的作品，请给予一些支持！
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2f790275-25b9-4c5c-86ec-3339cd1bf7d2">
 
-<img width="1083" alt="image" src="https://github.com/user-attachments/assets/69e080a5-13e4-4112-89c2-d4aa8b32ee6b">
+
 
