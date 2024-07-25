@@ -132,7 +132,7 @@ https://zsmpay.who365.club/
 ---
 
 请联系微信：captaindata01 即可加入我的开发者交流群，目前已有9个群，每个群人数均480+，属于高质量活跃群！<br>
-<img width="1156" alt="image" src="https://github.com/user-attachments/assets/fe62105c-3aab-4984-892e-da865175d9d7">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fe62105c-3aab-4984-892e-da865175d9d7">
 
 
 
