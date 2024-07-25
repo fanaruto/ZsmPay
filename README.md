@@ -122,26 +122,5 @@ CREATE TABLE `wxpay_zsm_orders` (
 6、进入img目录替换qrcode.png赞赏码
 ```
 
-在线演示
----
-
-https://zsmpay.who365.club/
-
-
-加入开发者交流群
----
-
-请联系微信：captaindata01 即可加入我的开发者交流群，目前已有9个群，每个群人数均480+，属于高质量活跃群！<br>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/fe62105c-3aab-4984-892e-da865175d9d7">
-
-
-
-
-赞赏
----
-
-如果你喜欢我的作品，请给予一些支持！<br>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/2f790275-25b9-4c5c-86ec-3339cd1bf7d2">
-
 
 
